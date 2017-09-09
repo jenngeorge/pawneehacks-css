@@ -1,7 +1,7 @@
 ## Intro to CSS: Foundations
 - Jennifer Georgevich (they/them)
 - tweet @jenngeorge_
-- link to slides and project repo: LINK HERE
+- Slides, Demo, and Project: github.com/jenngeorge/pawneehacks-css
 ---
 
 ### Topics (< 5 min each)
@@ -45,9 +45,6 @@ Note: nav section
 ---
 ##Box Model
 ![box-model](http://res.cloudinary.com/jenngeorge/image/upload/v1504753778/box-model_nvjdp7.png)
-
-- box-sizing: content-box
-- box-sizing: border-box
 
 Note: show box model in chrome dev tools
 ---
@@ -106,5 +103,5 @@ Note: add a rain cloud image on top of the hero section
 ---
 ## Try it!
 
-link to project repo
+github.com/jenngeorge/pawneehacks-css
 ---
