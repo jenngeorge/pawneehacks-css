@@ -39,3 +39,8 @@ use an image from an online source with
   <!-- or -->
   <img src="www.imageurl.com" alt="my-url" />
 ```
+
+## Bonus
+- First, create a [Github](github.com) account if you don't have one
+- Publish your site with [Github Pages](https://pages.github.com/)
+  - Select 'Project Site', then 'Start from scratch'

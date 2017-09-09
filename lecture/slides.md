@@ -1,7 +1,7 @@
 ## Intro to CSS: Foundations
-- Jennifer Georgevich (they/them)
+- Jenn Georgevich (they/them)
 - tweet @jenngeorge_
-- Slides, Demo, and Project: github.com/jenngeorge/pawneehacks-css
+- Slides, Demo, and Project: [github.com/jenngeorge/pawneehacks-css](github.com/jenngeorge/pawneehacks-css)
 ---
 
 ### Topics (< 5 min each)
@@ -101,7 +101,15 @@ Note: make the navbar fixed to top
 
 Note: add a rain cloud image on top of the hero section
 ---
+### Additional Resources
+[MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[CSS Tricks](https://css-tricks.com/)
+---
 ## Try it!
 
-github.com/jenngeorge/pawneehacks-css
+[github.com/jenngeorge/pawneehacks-css](github.com/jenngeorge/pawneehacks-css)
 ---
+
+Jenn Georgevich taught full stack web development at App Academy's 
+San Francisco office. After working with multiple Bay Area startups, they
+recently moved to Brooklyn to escape the San Francisco tech monoculture.
